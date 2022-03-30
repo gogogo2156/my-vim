@@ -1,3 +1,5 @@
+https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt
+
 ##############################################################################
 # VIM CHEATSHEET (中文速查表)  -  by skywind (created on 2017/10/12)
 # Version: 47, Last Modified: 2020/10/10 11:02
